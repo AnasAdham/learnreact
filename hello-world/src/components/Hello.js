@@ -12,5 +12,6 @@ const Hello = () => {
     // class is a reserved word for javascript hence use classname
      React.createElement('h1', null, 'Hello from the hello js'))
 }
+// above is the notes for jsx
 
 export default Hello
